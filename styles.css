@@ -132,7 +132,6 @@ hr{
    
 }
 .posts-card {
-   
     max-width: 400px; 
     background: white;
     padding: 1rem;
@@ -150,8 +149,8 @@ hr{
     font-size: medium;
 }
 .text-head{
-    font-size: large;
     font-size: larger;
+    font-weight: bolder;
 }
 .large-posts-container{
     display: flex;
